@@ -24,7 +24,7 @@
 本仓库采用分许可模式：
 
 - **代码** —— 所有源代码文件（包括但不限于 `.py`、 `.js`、 `.cpp`、 `.hpp` 等）采用 **GPL-3.0-or-later** 许可。完整文本见 [`LICENSE`](LICENSE) 文件。
-- **文档与资源** —— `/res` 目录、 `README.md`，以及仓库中其他一切非代码文件，采用 **CC BY-SA 4.0** 许可。完整文本见 [`LICENSE-CONTENT`](LICENSE-CONTENT) 文件。
+- **文档与资源** —— `randomly_pick/res` 目录、 `README.md`，以及仓库中其他一切非代码文件，采用 **CC BY-SA 4.0** 许可。完整文本见 [`LICENSE-CONTENT`](LICENSE-CONTENT) 文件。
 
 这两部分相互独立。使用本仓库时，请遵守你所使用部分对应的许可条款。
 
